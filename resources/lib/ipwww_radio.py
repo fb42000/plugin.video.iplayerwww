@@ -547,7 +547,7 @@ def ListLive():
         ('bbc_6music', 'BBC Radio 6 Music'),
         ('bbc_asian_network', 'BBC Asian Network'),
         ('bbc_radio_scotland_fm', 'BBC Radio Scotland'),
-        ('bbc_radio_nan_gaidheal', u'BBC Radio nan Gàidheal'),
+        ('bbc_radio_nan_gaidheal', 'BBC Radio nan Gàidheal'),
         ('bbc_radio_ulster', 'BBC Radio Ulster'),
         ('bbc_radio_foyle', 'BBC Radio Foyle'),
         ('bbc_radio_wales_fm', 'BBC Radio Wales'),
